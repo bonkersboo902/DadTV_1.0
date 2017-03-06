@@ -1,0 +1,6 @@
+<item>
+<title>CTV News Atlantic</title>
+<link>http://bit.ly/1QHauNX</link>
+<thumbnail>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/ctvnews%20logo.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/ctvnews-fanart.jpg</fanart>
+</item>
