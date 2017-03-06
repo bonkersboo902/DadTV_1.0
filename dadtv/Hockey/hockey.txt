@@ -1,0 +1,6 @@
+<item>
+<title>Hockey</title>
+<link>http://bit.ly/2lMNG4X</link>
+<thumbnail>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/nhl.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/NHL-fanart.jpg</fanart>
+</item>
