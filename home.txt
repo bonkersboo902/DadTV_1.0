@@ -4,17 +4,17 @@
 <channels>
 <channel>
 <name>News</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/ctvnews%20logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/News/news.txt</externallink>
+<fanart>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/ctvnews-fanart.jpg</fanart>
 <info></info>
 </channel>
 
 <channel>
 <name>Hockey</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/nhl.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/Hockey/hockey.txt</externallink>
+<fanart>https://raw.githubusercontent.com/bonkersboo902/DadTV_1.0/master/NHL-fanart.jpg</fanart>
 <info></info>
 </channel>
 </channels>
